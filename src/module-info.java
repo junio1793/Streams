@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author junior
+ *
+ */
+module stream {
+}
